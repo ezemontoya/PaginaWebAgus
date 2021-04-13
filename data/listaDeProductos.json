@@ -1,0 +1,33 @@
+[{
+  "id": 1,
+  "nombre": "Botas de folklore",
+  "avatar": "imagenes/mini Conservadora.JPG",
+  "precio": 2000
+ }, {
+  "id": 2,
+  "nombre": "Botas de malambo",
+  "avatar": "imagenes/mini Conservadora.JPG",
+  "precio": 2500
+}, {
+  "id": 3,
+  "nombre": "Zapatos de danza (Damas y niñas) ",
+  "avatar": "https://scontent.fcor10-3.fna.fbcdn.net/v/t1.0-9/138397132_819144468661682_4332892971002267570_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=973b4a&_nc_ohc=K86HeOq1EB4AX8eYTty&_nc_ht=scontent.fcor10-3.fna&oh=bfefaf90ef8f271f7d91c099b1a63a26&oe=60763836",
+  "precio": 3500
+}, {
+  "id": 4,
+  "nombre": "Zapatos de malambo",
+  "avatar": "https://scontent.fcor10-3.fna.fbcdn.net/v/t1.0-9/139273863_819144435328352_3261816754599556477_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=973b4a&_nc_ohc=I1dHBZ4TAk0AX_4_yhq&_nc_ht=scontent.fcor10-3.fna&oh=020c6b7570ae03b71b1719d223b1e124&oe=6076B39D",
+  "precio": 3000
+}, {
+  "id": 5,
+  "nombre": "Zapatos de baile",
+  "avatar": "https://scontent.fcor10-3.fna.fbcdn.net/v/t1.0-9/139248532_819144758661653_456828864737332490_o.jpg?_nc_cat=109&ccb=1-3&_nc_sid=973b4a&_nc_ohc=QlPTwpxLcwYAX80Otid&_nc_ht=scontent.fcor10-3.fna&oh=3b1335395588f8831d1943585b9901ee&oe=60767F82",
+  "precio": 4500
+}, {
+  "id": 6,
+  "nombre": "Botas a pedido, Consultar Precio",
+  "avatar": "https://scontent.fcor10-3.fna.fbcdn.net/v/t1.0-9/139189927_819144811994981_563443019994183371_o.jpg?_nc_cat=104&ccb=1-3&_nc_sid=973b4a&_nc_ohc=DTrrT4mVHXQAX9hTt-3&_nc_ht=scontent.fcor10-3.fna&oh=9c700abfbb2a3945ec3830fc2542092c&oe=6074B651",
+  "precio": 4200
+}]
+
+
